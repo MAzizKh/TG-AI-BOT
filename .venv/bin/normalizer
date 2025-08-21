@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/uncleaz/Desktop/TG AI BOT/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/uncleaz/Desktop/TG-AI-BOT/.venv/bin/python3
 import sys
 from charset_normalizer.cli import cli_detect
 if __name__ == '__main__':

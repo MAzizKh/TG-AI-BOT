@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/uncleaz/Desktop/TG AI BOT/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/uncleaz/Desktop/TG-AI-BOT/.venv/bin/python3
 import sys
 from dotenv.__main__ import cli
 if __name__ == '__main__':
