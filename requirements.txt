@@ -1,2 +1,6 @@
+Flask==3.0.3
+requests==2.32.3
+python-dotenv==1.0.1
+python-telegram-bot==20.3
 gunicorn==23.0.0
-packaging==25.0
+urllib3<2.0
